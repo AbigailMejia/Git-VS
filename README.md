@@ -8,8 +8,20 @@ hola mundo
   <body>
     <div>
     <header>
-      </header>
+      <h1>mi pagina web</h1>
+    </header>
       <nav>
+        <ul>
+          <li>
+            <a href-"Maquetacion.html">Galeria</a>
+          </li>
+          <li>
+            <a href-""Maquetacion.html"">Registro</a>
+          </li>
+          <li>
+            <a href-""Maquetacion.html"">informacion</a>
+          </li>
+        </ul>
       </nav>
       <section>
       </section>
