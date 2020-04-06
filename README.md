@@ -24,8 +24,25 @@ hola mundo
         </ul>
       </nav>
       <section>
+        <article>
+          <h2>titulo</h2>
+          <p>contenido.....</p>
+        </article>
+        <article>
+          <h2>titulo</h2>
+          <p>contenido.....</p>
+        </article>
+        <article>
+          <h2>titulo</h2>
+          <p>contenido.....</p>
+        </article>
       </section>
       <aside>
+        <h2>barra lateral</h2>
+        <form>
+          <input type="text" name="buscar"/>
+          <input type="submit" value="buscar"/>
+        </form>
       </aside>
     <footer>
     </footer>
